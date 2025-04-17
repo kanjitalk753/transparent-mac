@@ -1,2 +1,2 @@
-# transparent-mac
+# Transparent Mac
 TODO
